@@ -1,7 +1,7 @@
 @media (max-width: 767px) {
     .center {
-        padding-left: 16px;
-        padding-right: 16px;
+        padding-left: 15px;
+        padding-right: 15px;
     }
     .header {
         padding-top: 32px;
@@ -68,6 +68,9 @@
     .footer {
         display: flex;
         justify-content: center;
+    }
+    .footer-content {
+        gap: 122px;
     }
     .product-box__title {
         font-size: 24px;

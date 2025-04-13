@@ -43,6 +43,14 @@
    ```bash
    git clone https://github.com/ваш-username/interior-shop.git
 
+## Cкриншоты
+
+![image](https://github.com/user-attachments/assets/43c4889d-4fd4-4f50-9a00-90e1dcc2dcba)
+
+![image](https://github.com/user-attachments/assets/56d76d7c-3bf8-4862-bdba-95b9514c4588)
+
+![image](https://github.com/user-attachments/assets/b8a9fa0e-24b8-4cd4-8947-c693d0e86e24)
+
   ## Структура проекта
 
   interior-shop/
@@ -57,15 +65,21 @@
 ├── catalog.html
 ├── basket.html
 └── README.md
-## Cкриншоты
 
-![image](https://github.com/user-attachments/assets/9e6ce393-d433-4741-a940-0fc3d9d60dcd)
+## 📄 Лицензия
 
-![image](https://github.com/user-attachments/assets/db246020-ed6b-429b-a1de-d3b592c21c7b)
+Проект распространяется по лицензии MIT. Подробнее см. в файле LICENSE.
 
-![image](https://github.com/user-attachments/assets/c5eeb77a-cf24-4795-9c28-67b3c61c7831)
+## 🤝 Как помочь проекту?
 
-![image](https://github.com/user-attachments/assets/357da4fb-1967-448d-ae50-099bb3713120)
+🐞 Нашли ошибку? Сообщите о ней
+
+💡 Есть идея? Сделайте Pull Request
+
+⭐ Поставьте звезду на GitHub!
+
+© 2025 Сайт мебели "Интерьер" | Политика конфиденциальности
+
 
 
 

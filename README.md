@@ -60,8 +60,11 @@
 ## Cкриншоты
 
 ![image](https://github.com/user-attachments/assets/9e6ce393-d433-4741-a940-0fc3d9d60dcd)
+
 ![image](https://github.com/user-attachments/assets/db246020-ed6b-429b-a1de-d3b592c21c7b)
+
 ![image](https://github.com/user-attachments/assets/c5eeb77a-cf24-4795-9c28-67b3c61c7831)
+
 ![image](https://github.com/user-attachments/assets/357da4fb-1967-448d-ae50-099bb3713120)
 
 

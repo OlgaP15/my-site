@@ -1149,7 +1149,7 @@ ul {
     justify-content: center;
   }
   .footer-content {
-    gap: 122px;
+        gap: 122px;
   }
   .product-box__title {
     font-size: 24px;
